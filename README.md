@@ -23,7 +23,7 @@
 <p>
   👨‍💻 <strong>Mais sobre mim</strong>
   
-  - 💬 Moro em São Paulo, Brasil. Possuo experiência com <strong>Excel Avançado, Power BI e SQL</strong>, aplicando dados na construção de indicadores, relatórios e dashboards. Também trago bagagem em <strong>gestão de projetos</strong>, com práticas como Scrum,   Kanban e fundamentos do PMBOK, atuando no acompanhamento de prazos, indicadores, riscos e entregas.
+  - 💬 Moro em São Paulo, Brasil. Possuo experiência com <strong>Excel Avançado, Power BI e SQL</strong>, aplicando dados na construção de indicadores, relatórios e dashboards. Também trago bagagem em <strong>gestão de projetos</strong>, com práticas de metodologias ágeis e cascata, atuando no acompanhamento de prazos, indicadores, riscos e entregas.
 
   - ⚡ Nos meus momentos livres, gosto de ler e ouvir músicas. Tenho interesse em conteúdos sobre <strong>comunicação, oratória, persuasão e storytelling</strong>, que aplico na forma de apresentar análises e insights, facilitando a compreensão de dados por diferentes     públicos.
 </p>
@@ -33,6 +33,7 @@
 <a href="https://wa.me/5511916910973?text=Hi!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white"></a>
 <a href="mailto:gustavohsantoscontato@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/santosgustavohenrique/" target=_blank><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://gustavo-data-analyst.lovable.app/" target=_blank><img src="https://img.shields.io/badge/🌐%20Acesse%20Meu%20Site-897BFF.svg?style=for-the-badge"></a>
 
 <br clear="both">
 <br clear="both">
