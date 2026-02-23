@@ -42,21 +42,24 @@
 ## 🔥 Skills:
 <div width="100%">
   <h3>Ferramentas (Dados)</h3>
-  <img alt="Excel" align="left" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Excel.svg"/>
   <img alt="SQL" align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
-  <img alt="Power BI" align="left" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Power BI.svg"/>
-  <img alt="Python" align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img alt="Power BI" align="left" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Power BI.svg"/>
+  <img alt="Excel" align="left" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Excel.svg"/>
+  <img alt="Python" align="left" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg"/>
+  <img alt="Git Bash" align="left" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GITBash.svg"/>
 </div>
 
 <br clear="both">
 
 <div>
   <h3>Outras Ferramentas</h3>
-  <img alt="Git" align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-  <img alt="VScode" align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img alt="Copilot M365" align="left" height="40" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/copilot-icon.png"/>
-  <img alt="Microsoft Planner" align="left" height="40" width="40"src="https://github.com/user-attachments/assets/ce464280-2bd2-4f6a-98ae-cf09bbff707c"/>
-
+  <img alt="Figma" align="left" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Figma.svg"/> 
+  <img alt="HTML" align="left" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/HTML.svg"/>
+  <img alt="CSS" align="left" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/CSS.svg"/>
+  <img alt="VScode" align="left" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/VSCode.svg">
+  <img alt="Powerpoint" align="left" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Powerpoint.svg"/>
+  <img alt="Word" align="left" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Word.svg"/>
+  <img alt="Notion" align="left" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Notion.svg"/>
 </div>
 
 <br clear="both">
@@ -64,8 +67,7 @@
 
 <!-- Portfolio -->
 ## 📊 Portfólio:
-- [Dashboard de Vendas]([Link])
-
+- [LK Barber Comand Center (Looker Studio, Google Planilhas, HTML, CSS, JS)](https://github.com/gustavo-santos-analytics/lk-barber-command-center)
 
 <br clear="both">
 
