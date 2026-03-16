@@ -12,11 +12,19 @@
 
 <!-- Apresentação -->
 <p>
-  Olá 👋, sou o Gustavo! Atuo como Analista de Dados na <a href="https://www.motiva.com.br/" target="_blank"><strong>Motiva (Grupo CCR)</strong></a>, a maior empresa de mobilidade da América Latina. Tenho forte <strong>interface com o negócio</strong> e <strong>stakeholders</strong>. Trabalho com limpeza, organização, análise e visualização de dados de <strong>projetos de tecnologia</strong>, apoiando a liderança por meio de indicadores e relatórios executivos.
+  Olá 👋, sou o Gustavo! Atuo como Analista de Dados na <a href="https://www.motiva.com.br/" target="_blank"><strong>Motiva (Grupo CCR)</strong></a>, a maior empresa de mobilidade da América Latina. Minha atuação envolve <strong>coleta, tratamento, análise e visualização de dados</strong>, com foco na criação de <strong>KPIs, dashboards executivos e análises de performance</strong> que auxiliam lideranças na tomada de decisão.
 
-  - 🌱 Atualmente estou estudando <strong>Engenharia de Dados</strong> na <a href="https://www.escoladnc.com.br/catalogo" target="_blank"><strong>Escola de Formação DNC</strong></a> e <strong>Análise de Dados</strong> na <a href="https://www.hashtagtreinamentos.com/"      target="_blank"><strong>Hashtag Treinamentos</strong></a>. Além de cursar superior em Análise e Desenvolvimento de Sistemas, no <a href="https://anchieta.br/" target="_blank"><strong>Centro Universitário Padre Anchieta</strong></a>.
+<p>
+📚 Atualmente estou aprofundando meus conhecimentos em:
+</p>
 
-  - 🔭 Estou aberto a oportunidades na área de <strong>Análise de Dados e Business Intelligence</strong>.
+<ul>
+<li>Data Analytics – <a href="https://xperiun.com/ed/formacao/?utm_source=SEARCH&utm_medium=CURSO_ANALISE_DADOS&utm_campaign=FAD_VENDA_FRIO_SEARCH&utm_term=forma%C3%A7%C3%A3o%20analise%20de%20dados&gad_source=1&gad_campaignid=20667221412&gbraid=0AAAAADw40tp3mo1s-LeS9FDWC67fzJeHL&gclid=CjwKCAjw1N7NBhAoEiwAcPchpzUWwfJIjf958JdUxOLxxOFe0KyGg8mjU7fJx2E5c8_-0k6NguLI-hoCoN0QAvD_BwE" target="_blank"><strong>Xperiun | Data Analytics</strong></a></li>
+<li>Engenharia de Dados – <a href="https://www.escoladnc.com.br/catalogo" target="_blank"><strong>Escola de Formação DNC</strong></a></li>
+<li>Análise de Dados – <a href="https://www.hashtagtreinamentos.com/" target="_blank"><strong>Hashtag Treinamentos</strong></a></li>
+<li>Graduação em <strong>Análise e Desenvolvimento de Sistemas</strong> – <a href="https://anchieta.br/" target="_blank"><strong>Centro Universitário Padre Anchieta</strong></a></li>
+</ul>
+
 </p>
 
 <!-- Dropdown -->
@@ -25,7 +33,7 @@
   
   - 💬 Moro em São Paulo, Brasil. Possuo experiência com <strong>Excel Avançado, Power BI e SQL</strong>, aplicando dados na construção de indicadores, relatórios e dashboards. Também trago bagagem em <strong>gestão de projetos</strong>, com práticas de metodologias ágeis e cascata, atuando no acompanhamento de prazos, indicadores, riscos e entregas.
 
-  - ⚡ Nos meus momentos livres, gosto de ler e ouvir músicas. Tenho interesse em conteúdos sobre <strong>comunicação, oratória, persuasão e storytelling</strong>, que aplico na forma de apresentar análises e insights, facilitando a compreensão de dados por diferentes     públicos.
+  - ⚡ Nos meus momentos livres, gosto de ler e ouvir músicas. Tenho interesse em conteúdos sobre <strong>comunicação, oratória, persuasão e storytelling</strong>, que aplico na forma de apresentar análises e insights, facilitando a compreensão de dados por diferentes públicos.
 </p>
 
 <br>
@@ -68,6 +76,7 @@
 <!-- Portfolio -->
 ## 📊 Portfólio:
 - [LK Barber Comand Center (Looker Studio, Google Planilhas, HTML, CSS, JS)](https://github.com/gustavo-santos-analytics/lk-barber-command-center)
+- [Eletro Dashboard de Vendas (ETL, Esquema Estrela, Power BI, DAX, Power Query)](https://github.com/gustavo-santos-analytics/Hashtag-Eletro-Dashboard-de-Vendas)
 
 <br clear="both">
 
