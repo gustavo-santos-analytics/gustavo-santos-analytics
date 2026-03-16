@@ -12,19 +12,16 @@
 
 <!-- Apresentação -->
 <p>
-  Olá 👋, sou o Gustavo! Atuo como Analista de Dados na <a href="https://www.motiva.com.br/" target="_blank"><strong>Motiva (Grupo CCR)</strong></a>, a maior empresa de mobilidade da América Latina. Minha atuação envolve <strong>coleta, tratamento, análise e visualização de dados</strong>, com foco na criação de <strong>KPIs, dashboards executivos e análises de performance</strong> que auxiliam lideranças na tomada de decisão.
-
-<p>
-📚 Atualmente estou aprofundando meus conhecimentos em:
+Olá 👋, sou o Gustavo! Atuo como Analista de Dados na <a href="https://www.motiva.com.br/" target="_blank"><strong>Motiva (Grupo CCR)</strong></a>, a maior empresa de mobilidade da América Latina. Minha atuação envolve <strong>coleta, tratamento, análise e visualização de dados</strong>, com foco na criação de <strong>KPIs, dashboards executivos e análises de performance</strong> que auxiliam lideranças na tomada de decisão.
 </p>
 
-<ul>
-<li>Data Analytics – <a href="https://xperiun.com/ed/formacao/?utm_source=SEARCH&utm_medium=CURSO_ANALISE_DADOS&utm_campaign=FAD_VENDA_FRIO_SEARCH&utm_term=forma%C3%A7%C3%A3o%20analise%20de%20dados&gad_source=1&gad_campaignid=20667221412&gbraid=0AAAAADw40tp3mo1s-LeS9FDWC67fzJeHL&gclid=CjwKCAjw1N7NBhAoEiwAcPchpzUWwfJIjf958JdUxOLxxOFe0KyGg8mjU7fJx2E5c8_-0k6NguLI-hoCoN0QAvD_BwE" target="_blank"><strong>Xperiun | Data Analytics</strong></a></li>
-<li>Engenharia de Dados – <a href="https://www.escoladnc.com.br/catalogo" target="_blank"><strong>Escola de Formação DNC</strong></a></li>
-<li>Análise de Dados – <a href="https://www.hashtagtreinamentos.com/" target="_blank"><strong>Hashtag Treinamentos</strong></a></li>
-<li>Graduação em <strong>Análise e Desenvolvimento de Sistemas</strong> – <a href="https://anchieta.br/" target="_blank"><strong>Centro Universitário Padre Anchieta</strong></a></li>
-</ul>
+<p>
+  📚 <strong>Atualmente estou aprofundando meus conhecimentos em:</strong>
 
+  - Data Analytics – **[Xperiun](https://xperiun.com/ed/formacao/)**
+  - Engenharia de Dados – **[Escola DNC](https://www.escoladnc.com.br/catalogo)**
+  - Análise de Dados – **[Hashtag Treinamentos](https://www.hashtagtreinamentos.com/)**
+  - Graduação em **ADS** – **[Centro Universitário Padre Anchieta](https://anchieta.br/)**
 </p>
 
 <!-- Dropdown -->
@@ -38,10 +35,10 @@
 
 <br>
 <!-- Links -->
-<a href="https://wa.me/5511916910973?text=Hi!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white"></a>
+<a href="https://wa.me/5511916910973?text=Hi!"><img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white"></a>
 <a href="mailto:gustavohsantoscontato@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/santosgustavohenrique/" target=_blank><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://gustavo-data-analyst.lovable.app/" target=_blank><img src="https://img.shields.io/badge/🌐%20Acesse%20Meu%20Site-897BFF.svg?style=for-the-badge"></a>
+<a href="https://www.linkedin.com/in/santosgustavohenrique/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://gustavo-data-analyst.lovable.app/"><img src="https://img.shields.io/badge/🌐%20Acesse%20Meu%20Site-897BFF.svg?style=for-the-badge"></a>
 
 <br clear="both">
 <br clear="both">
