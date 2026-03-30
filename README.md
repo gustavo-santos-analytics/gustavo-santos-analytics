@@ -12,7 +12,7 @@
 
 <!-- Apresentação -->
 <p>
-Olá 👋, sou o Gustavo! Atuo como Analista de Dados na <a href="https://www.motiva.com.br/" target="_blank"><strong>Motiva (Grupo CCR)</strong></a>, a maior empresa de mobilidade da América Latina. Minha atuação envolve <strong>coleta, tratamento, análise e visualização de dados</strong>, com foco na criação de <strong>KPIs, dashboards executivos e análises de performance</strong> que auxiliam lideranças na tomada de decisão.
+Atuo como Analista de Dados na <a href="https://zeentech.com.br/" target="_blank"><strong>Zeentech</strong></a>, apoiando a operação de Facilities na <a href="https://corporate.ford.com/" target="_blank"><strong>Ford Motor Company</strong></a>. Minha atuação é focada em transformar dados operacionais em insights estratégicos, desenvolvendo indicadores, análises de performance e soluções que apoiam a tomada de decisão e a eficiência dos processos.
 </p>
 
 <p>
