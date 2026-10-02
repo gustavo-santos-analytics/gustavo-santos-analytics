@@ -12,46 +12,74 @@
 
 <!-- Apresentação -->
 <p>
-Atuo como Analista de Dados na <a href="https://zeentech.com.br/" target="_blank"><strong>Zeentech</strong></a>, apoiando a operação de Facilities na <a href="https://corporate.ford.com/" target="_blank"><strong>Ford Motor Company</strong></a>. Minha atuação é focada em transformar dados operacionais em insights estratégicos, desenvolvendo indicadores, análises de performance e soluções que apoiam a tomada de decisão e a eficiência dos processos.
+Atuo como Analista de Dados na <a href="https://zeentech.com.br/" target="_blank"><strong>Zeentech</strong></a>, apoiando a operação de Facilities na <a href="https://corporate.ford.com/" target="_blank"><strong>Ford Motor Company</strong></a>. Trabalho do dado bruto à apresentação: extração de múltiplas fontes, tratamento e padronização, modelagem, dashboards e storytelling com dados para apoiar a tomada de decisão.
 </p>
-
-<p>
-  📚 <strong>Atualmente estou aprofundando meus conhecimentos em:</strong>
-
-  - Data Analytics – **[Xperiun](https://xperiun.com/ed/formacao/)**
-  - Engenharia de Dados – **[Escola DNC](https://www.escoladnc.com.br/catalogo)**
-  - Análise de Dados – **[Hashtag Treinamentos](https://www.hashtagtreinamentos.com/)**
-  - Graduação em **ADS** – **[Centro Universitário Padre Anchieta](https://anchieta.br/)**
-</p>
-
-<!-- Dropdown -->
-<p>
-  👨‍💻 <strong>Mais sobre mim</strong>
-  
-  - 💬 Moro em São Paulo, Brasil. Possuo experiência com <strong>Excel Avançado, Power BI e SQL</strong>, aplicando dados na construção de indicadores, relatórios e dashboards. Também trago bagagem em <strong>gestão de projetos</strong>, com práticas de metodologias ágeis e cascata, atuando no acompanhamento de prazos, indicadores, riscos e entregas.
-
-  - ⚡ Nos meus momentos livres, gosto de ler e ouvir músicas. Tenho interesse em conteúdos sobre <strong>comunicação, oratória, persuasão e storytelling</strong>, que aplico na forma de apresentar análises e insights, facilitando a compreensão de dados por diferentes públicos.
-</p>
-
-<br>
-<!-- Links -->
-<a href="https://wa.me/5511916910973?text=Hi!"><img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white"></a>
-<a href="mailto:gustavohsantoscontato@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/santosgustavohenrique/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://gustavo-data-analyst.lovable.app/"><img src="https://img.shields.io/badge/🌐%20Acesse%20Meu%20Site-897BFF.svg?style=for-the-badge"></a>
 
 <br clear="both">
+
+### ⚙️ Como trabalho com dados no dia a dia
+
+| Etapa | O que faço | Ferramentas |
+|---|---|---|
+| **Extração** | Consolido dados de ERPs, bancos de dados, BigQuery, listas do SharePoint e planilhas Excel | SQL, BigQuery, Power Query |
+| **Limpeza e tratamento** | Padronização e tratamento de dados vindos de fontes diferentes | Power Query, SQL, Excel, VBA |
+| **Modelagem** | Modelagem de dados e criação de medidas e indicadores | Power BI (DAX, Power Query) |
+| **Automação** | Automação de rotinas e relatórios recorrentes | VBA, Excel, IA |
+| **Entrega** | Dashboards, relatórios gerenciais e apresentações com storytelling | Power BI, Excel, PowerPoint |
+
+<br clear="both">
+
+### 🤖 IA generativa como apoio
+
+Utilizo IA generativa (como Claude, Claude Code ChatGPT, Gemini etc.) como apoio ao trabalho analítico, sempre com revisão e validação humana:
+
+- **Desenvolvimento:** apoio na escrita, revisão e depuração de fórmulas, consultas e scripts (DAX, Power Query, SQL, VBA).
+- **Documentação e comunicação:** estruturação de narrativas e apresentações para facilitar a compreensão dos dados.
+- **Boas práticas:** valido toda saída antes de usar e não compartilho dados sensíveis ou confidenciais com ferramentas externas.
+
+<br clear="both">
+
+### 📚 <strong>Atualmente estou aprofundando meus conhecimentos em:</strong>
+
+- Data Analytics – **[Xperiun](https://xperiun.com/ed/formacao/)**
+- Engenharia de Dados – **[Escola DNC](https://www.escoladnc.com.br/catalogo)**
+- Graduação em **ADS** – **[Centro Universitário Padre Anchieta](https://anchieta.br/)**
+
+<br clear="both">
+
+### 👨‍💻 <strong>Mais sobre mim</strong>
+  
+- 💬 Moro em São Paulo, Brasil. Possuo experiência com <strong>Excel Avançado, VBA, Power BI (DAX e Power Query), SQL e BigQuery</strong>, além de listas do SharePoint e do pacote Office (incluindo PowerPoint para apresentar análises). Aplico dados na construção de indicadores, relatórios e dashboards. Também trago bagagem em <strong>gestão de projetos</strong>, com práticas de metodologias ágeis e cascata, atuando no acompanhamento de prazos, indicadores, riscos e entregas.
+
+- ⚡ Nos meus momentos livres, gosto de ler e ouvir músicas. Tenho interesse em conteúdos sobre <strong>comunicação, oratória, persuasão e storytelling</strong>, que aplico na forma de apresentar análises e insights, facilitando a compreensão de dados por diferentes públicos.
+
+<br clear="both">
+<div align="center">
+<!-- Links -->
+  <a href="https://wa.me/5511916910973?text=Hi!"><img width="50" heigth="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Whatsapp.svg"></a>
+  <a href="mailto:gustavohsantoscontato@gmail.com"><img width="50" heigth="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Gmail.svg"></a>
+  <a href="https://www.linkedin.com/in/santosgustavohenrique/"><img width="50" heigth="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linkedin.svg"></a>
+</div>
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://gustavo-data-analyst.lovable.app/"><img src="https://img.shields.io/badge/🌐%20Acesse%20Meu%20Site-21509c.svg?style=for-the-badge"></a>
+</div>
+
 <br clear="both">
 
 <!-- Skills: Análise de Dados -->
 ## 🔥 Skills:
 <div width="100%">
   <h3>Ferramentas (Dados)</h3>
-  <img alt="SQL" align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
+  <img alt="SQL" align="left" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
   <img alt="Power BI" align="left" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Power BI.svg"/>
   <img alt="Excel" align="left" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Excel.svg"/>
   <img alt="Python" align="left" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg"/>
   <img alt="Git Bash" align="left" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GITBash.svg"/>
+  <img alt="Git" align="left" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GIT.svg"/>
+  <img alt="GitHub" align="left" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Github.svg"/>
 </div>
 
 <br clear="both">
@@ -61,10 +89,11 @@ Atuo como Analista de Dados na <a href="https://zeentech.com.br/" target="_blank
   <img alt="Figma" align="left" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Figma.svg"/> 
   <img alt="HTML" align="left" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/HTML.svg"/>
   <img alt="CSS" align="left" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/CSS.svg"/>
+  <img alt="Javascript" align="left" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg"/>
   <img alt="VScode" align="left" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/VSCode.svg">
-  <img alt="Powerpoint" align="left" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Powerpoint.svg"/>
-  <img alt="Word" align="left" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Word.svg"/>
-  <img alt="Notion" align="left" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Notion.svg"/>
+  <img alt="Claude" align="left" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Claude.svg"/>
+  <img alt="Gemini" align="left" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Gemini.svg"/>
+  <img alt="ChatGPT" align="left" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/ChatGPT.svg"/>
 </div>
 
 <br clear="both">
