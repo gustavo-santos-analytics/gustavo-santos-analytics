@@ -17,7 +17,7 @@ Atuo como Analista de Dados na <a href="https://zeentech.com.br/" target="_blank
 
 <br clear="both">
 
-### ⚙️ Como trabalho com dados no dia a dia
+## ⚙️ Como trabalho com dados no dia a dia
 
 | Etapa | O que faço | Ferramentas |
 |---|---|---|
@@ -29,7 +29,7 @@ Atuo como Analista de Dados na <a href="https://zeentech.com.br/" target="_blank
 
 <br clear="both">
 
-### 🤖 IA generativa como apoio
+## 🤖 IA generativa como apoio
 
 Utilizo IA generativa (como Claude, Claude Code ChatGPT, Gemini etc.) como apoio ao trabalho analítico, sempre com revisão e validação humana:
 
@@ -39,15 +39,15 @@ Utilizo IA generativa (como Claude, Claude Code ChatGPT, Gemini etc.) como apoio
 
 <br clear="both">
 
-### 📚 <strong>Atualmente estou aprofundando meus conhecimentos em:</strong>
+## 📚 <strong>Formação acadêmica e cursos</strong>
 
+- Graduação em **ADS** – **[Centro Universitário Padre Anchieta](https://anchieta.br/)**
 - Data Analytics – **[Xperiun](https://xperiun.com/ed/formacao/)**
 - Engenharia de Dados – **[Escola DNC](https://www.escoladnc.com.br/catalogo)**
-- Graduação em **ADS** – **[Centro Universitário Padre Anchieta](https://anchieta.br/)**
 
 <br clear="both">
 
-### 👨‍💻 <strong>Mais sobre mim</strong>
+## 👨‍💻 <strong>Mais sobre mim</strong>
   
 - 💬 Moro em São Paulo, Brasil. Possuo experiência com <strong>Excel Avançado, VBA, Power BI (DAX e Power Query), SQL e BigQuery</strong>, além de listas do SharePoint e do pacote Office (incluindo PowerPoint para apresentar análises). Aplico dados na construção de indicadores, relatórios e dashboards. Também trago bagagem em <strong>gestão de projetos</strong>, com práticas de metodologias ágeis e cascata, atuando no acompanhamento de prazos, indicadores, riscos e entregas.
 
@@ -56,15 +56,15 @@ Utilizo IA generativa (como Claude, Claude Code ChatGPT, Gemini etc.) como apoio
 <br clear="both">
 <div align="center">
 <!-- Links -->
-  <a href="https://wa.me/5511916910973?text=Hi!"><img width="50" heigth="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Whatsapp.svg"></a>
-  <a href="mailto:gustavohsantoscontato@gmail.com"><img width="50" heigth="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Gmail.svg"></a>
-  <a href="https://www.linkedin.com/in/santosgustavohenrique/"><img width="50" heigth="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linkedin.svg"></a>
+  <a href="https://wa.me/5511916910973?text=Hi!"><img width="5%" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Whatsapp.svg"></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:gustavohsantoscontato@gmail.com"><img width="5%" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Gmail.svg"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/santosgustavohenrique/"><img width="5%" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linkedin.svg"></a>
 </div>
 
 <br clear="both">
 
 <div align="center">
-  <a href="https://gustavo-data-analyst.lovable.app/"><img src="https://img.shields.io/badge/🌐%20Acesse%20Meu%20Site-21509c.svg?style=for-the-badge"></a>
+  <a href="https://gustavo-data-analyst.lovable.app/"><img width="18%" src="https://img.shields.io/badge/🌐%20Acesse%20Meu%20Site-21509c.svg?style=for-the-badge"></a>
 </div>
 
 <br clear="both">
@@ -73,34 +73,44 @@ Utilizo IA generativa (como Claude, Claude Code ChatGPT, Gemini etc.) como apoio
 ## 🔥 Skills:
 <div width="100%">
   <h3>Ferramentas (Dados)</h3>
-  <img alt="SQL" align="left" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
-  <img alt="Power BI" align="left" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Power BI.svg"/>
-  <img alt="Excel" align="left" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Excel.svg"/>
-  <img alt="Python" align="left" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg"/>
-  <img alt="Git Bash" align="left" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GITBash.svg"/>
-  <img alt="Git" align="left" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GIT.svg"/>
-  <img alt="GitHub" align="left" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Github.svg"/>
+  <img alt="SQL" align="left" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
+  <img alt="Power BI" align="left" width="5%" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Power BI.svg"/>
+  <img alt="Excel" align="left" width="5%" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Excel.svg"/>
+  <img alt="Python" align="left" width="5%" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg"/>
+  <img alt="Git Bash" align="left" width="5%" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GITBash.svg"/>
+  <img alt="Git" align="left" width="5%" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GIT.svg"/>
+  <img alt="GitHub" align="left" width="5%" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Github.svg"/>
 </div>
 
 <br clear="both">
 
 <div>
   <h3>Outras Ferramentas</h3>
-  <img alt="Figma" align="left" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Figma.svg"/> 
-  <img alt="HTML" align="left" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/HTML.svg"/>
-  <img alt="CSS" align="left" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/CSS.svg"/>
-  <img alt="Javascript" align="left" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg"/>
-  <img alt="VScode" align="left" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/VSCode.svg">
-  <img alt="Claude" align="left" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Claude.svg"/>
-  <img alt="Gemini" align="left" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Gemini.svg"/>
-  <img alt="ChatGPT" align="left" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/ChatGPT.svg"/>
+  <img alt="Figma" align="left" width="5%" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Figma.svg"/> 
+  <img alt="HTML" align="left" width="5%" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/HTML.svg"/>
+  <img alt="CSS" align="left" width="5%" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/CSS.svg"/>
+  <img alt="Javascript" align="left" width="5%" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg"/>
+  <img alt="VScode" align="left" width="5%" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/VSCode.svg">
+  <img alt="Claude" align="left" width="5%" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Claude.svg"/>
+  <img alt="Gemini" align="left" width="5%" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Gemini.svg"/>
+  <img alt="ChatGPT" align="left" width="5%" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/ChatGPT.svg"/>
 </div>
 
 <br clear="both">
 <br clear="both">
 
+## 🌎 Idiomas
+
+| Idioma | Nível |
+|---|---|
+| <img src="https://flagcdn.com/w40/es.png" width="20%" alt="Espanha">&nbsp;&nbsp;&nbsp;Espanhol | Intermediário |
+| <img src="https://flagcdn.com/w40/us.png" width="20%" alt="Reino Unido">&nbsp;&nbsp;&nbsp;Inglês | Básico |
+| <img src="https://flagcdn.com/w40/br.png" width="20%" alt="Brasil">&nbsp;&nbsp;&nbsp;Português | Nativo |
+
+<br clear="both">
+
 <!-- Portfolio -->
-## 📊 Portfólio:
+## 📊 Portfólio de Projetos:
 - [LK Barber Comand Center (Looker Studio, Google Planilhas, HTML, CSS, JS)](https://github.com/gustavo-santos-analytics/lk-barber-command-center)
 - [Eletro Dashboard de Vendas (ETL, Esquema Estrela, Power BI, DAX, Power Query)](https://github.com/gustavo-santos-analytics/Hashtag-Eletro-Dashboard-de-Vendas)
 
