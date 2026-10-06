@@ -64,7 +64,7 @@ Utilizo IA generativa (como Claude, Claude Code ChatGPT, Gemini etc.) como apoio
 <br clear="both">
 
 <div align="center">
-  <a href="https://gustavo-santos-analytics.github.io/"><img width="18%" src="https://img.shields.io/badge/🌐%20Acesse%20Meu%20Site-21509c.svg?style=for-the-badge"></a>
+  <a href="https://gustavo-henrique-santos.github.io/"><img width="18%" src="https://img.shields.io/badge/🌐%20Acesse%20Meu%20Site-21509c.svg?style=for-the-badge"></a>
 </div>
 
 <br clear="both">
